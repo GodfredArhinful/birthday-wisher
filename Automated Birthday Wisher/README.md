@@ -18,7 +18,3 @@ Additional requirements :
 
 Also, keep an excel sheet ready. The excel sheet must contain the following details : Name , Email , Contact, Birthday and Year. You may add other details also.
 And the last requirement is to switch on lesser secure apps on gmail.
-
-If you feel any problem,feel free to contact @ ashutoshbritish@gmail.com
-
-Thanks to CodeWithHarry for the tutorial.
